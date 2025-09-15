@@ -1,0 +1,53 @@
+
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Politique de Confidentialité — Pointage BTP</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;line-height:1.6}h1,h2{line-height:1.2}</style>
+</head>
+<body>
+<h1>Politique de Confidentialité — Comptage Travail</h1>
+<p>Date d’entrée en vigueur : 15/09/2025</p>
+<p>La présente Politique décrit la manière dont l’application <strong>Comptage Travail</strong> traite les données des utilisateurs.</p>
+
+<h2>1. Données traitées</h2>
+<ul>
+  <li><strong>Données d’enregistrement</strong> : date, état (en attente/approuvé), chef, lieu, observation, heures supplémentaires, poste (jour/nuit), utilisation du marteau piqueur et “prime” associée.</li>
+  <li><strong>Données techniques</strong> : version de l’app et informations de diagnostic de base (locales uniquement).</li>
+</ul>
+
+<h2>2. Origine et finalité</h2>
+<p>Les données sont <strong>saisies manuellement</strong> par l’utilisateur et utilisées <strong>uniquement</strong> pour la gestion du pointage et le calcul des heures.</p>
+
+<h2>3. Stockage et conservation</h2>
+<ul>
+  <li>Toutes les données sont stockées <strong>localement</strong> sur l’appareil (SQLite).</li>
+  <li>Aucun transfert vers des serveurs tiers.</li>
+  <li>L’utilisateur peut supprimer ou modifier les enregistrements à tout moment.</li>
+</ul>
+
+<h2>4. Partage</h2>
+<p>Aucun partage de données avec des tiers. Aucun affichage publicitaire.</p>
+
+<h2>5. Autorisations</h2>
+<p>L’app ne demande pas d’autorisations sensibles à ce jour. Si des autorisations deviennent nécessaires (ex. stockage pour exporter un CSV), elles seront demandées avec une justification claire.</p>
+
+<h2>6. Droits de l’utilisateur</h2>
+<ul>
+  <li>Accéder, corriger, supprimer les données locales.</li>
+  <li>Exporter les enregistrements (lorsque disponible) en texte/CSV.</li>
+</ul>
+
+<h2>7. Sécurité</h2>
+<p>Les données restent sur l’appareil. Nous recommandons de protéger l’appareil par code/biométrie.</p>
+
+<h2>8. Contact</h2>
+<p>Email de support : <a href="mailto:ladislau-333@hotmail.com">ladislau-333@hotmail.com</a></p>
+
+<h2>9. Modifications</h2>
+<p>Cette Politique peut être mise à jour. La version la plus récente sera disponible via le lien de la boutique.</p>
+
+</body>
+</html>
