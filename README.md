@@ -2,15 +2,17 @@ Privacy Policy — Pointage BTP
 
 Effective date: September 17, 2025
 
+This Privacy Policy explains how the mobile application Pointage BTP (“the App”) handles user data in accordance with Google Play policies.
+
 1. Data Collected
 
-The application Pointage BTP only stores the data manually entered by the user:
+The App only stores information manually entered by the user:
 
 Work date
 
 Status (pending/approved)
 
-Supervisor
+Supervisor name
 
 Worksite location
 
@@ -22,43 +24,69 @@ Day/night shift
 
 Hammer drill bonus ("Prime Marteau Piqueur")
 
-No other personal data is collected.
+No other personal or sensitive information is collected.
 
 2. Data Storage
 
-All data is stored locally on the user’s device in an internal SQLite database.
-The app does not send, share, or upload data to any external server.
+All data is stored locally on the user’s device in a private SQLite database.
+
+The App does not send, share, or upload any data to external servers or third parties.
+
+When the App is uninstalled, all stored data is permanently removed from the device.
 
 3. Data Use
 
-Data is used only to calculate and display work time, overtime, and summaries within the app.
-It is never used for advertising, analytics, or third-party services.
+The collected data is used exclusively for the main functionality of the App:
 
-4. User Control
+To register daily work records.
 
-Users can edit or delete any record at any time.
-If the app is uninstalled, all stored data is permanently removed.
+To calculate overtime and bonuses.
 
-5. Sharing with Third Parties
+To generate summaries of hours worked.
 
-The app does not share data with third parties under any circumstances.
+The App does not use the data for advertising, analytics, or profiling.
 
-6. Permissions
+4. Sharing with Third Parties
 
-The app does not request sensitive permissions (contacts, location, camera, microphone).
-If, in the future, optional features require permissions (e.g., file storage for exporting CSV),
-the user will be asked for consent before enabling them.
+The App does not share data with third parties under any circumstances.
+
+No data is sold, transferred, or disclosed to advertisers, analytics services, or external partners.
+
+5. Permissions
+
+The App does not request access to sensitive permissions such as contacts, location, microphone, or camera.
+
+If, in the future, additional features require permissions (e.g., file storage for exporting reports), the user will be informed and asked for explicit consent before activation.
+
+6. User Rights
+
+Users have full control over their data:
+
+Records can be created, edited, or deleted at any time within the App.
+
+Uninstalling the App permanently removes all stored data.
 
 7. Security
 
-Since all data is kept locally on the device, security depends on the device itself.
-Users are encouraged to protect their phone/tablet with a screen lock or biometric protection.
+Since all data is stored locally, security depends on the user’s device.
 
-8. Contact
+Users are encouraged to protect their device with PIN, password, or biometric authentication.
 
-For questions about this Privacy Policy, please contact:
-cysedi777@gmail.com
+The App itself does not transmit or expose data externally.
 
-9. Changes
+8. Children’s Privacy
 
-This Privacy Policy may be updated. The latest version will always be available at the same link.
+The App is designed for use by adults in a professional work context (construction/BTP).
+
+The App does not target children and does not knowingly collect any data from children under 13.
+
+9. Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+The most recent version will always be available at the provided link.
+
+10. Contact
+
+If you have any questions or concerns about this Privacy Policy, please contact:
+Email: scysedi777@gmail.com
+
